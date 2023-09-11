@@ -20,7 +20,7 @@ For this project, I am going to use Python (Jupyter Notebook) and its packages (
 
 5. Share
 
-6, Act
+6. Act
 
 ## Ask
 
