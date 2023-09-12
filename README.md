@@ -26,11 +26,11 @@ For this project, I am going to use Python (Jupyter Notebook) and its packages (
 
 These are the three questions prior our analysis: 
 
-*How do annual members and casual users use Cyclistic bikes differently?
+* How do annual members and casual users use Cyclistic bikes differently?
 
-*Why would casual members buy Cyclistic annual membership?
+* Why would casual members buy Cyclistic annual membership?
 
-*How can Cyclistic use digital media to influence casual users to become members? 
+* How can Cyclistic use digital media to influence casual users to become members? 
 
 ## Prepare
 
