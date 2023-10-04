@@ -4,8 +4,7 @@
 
  **Tools:** Python, Jupyter Notebook, Pandas and Matplotlib
 
-View my Python code here in [Github](https://github.com/carolinenata/divvy_bikes/blob/main/divvy.ipynb)
-
+View my Python code [here](https://github.com/carolinenata/python_rentalbike/blob/main/python_panda.ipynb)
 ## Steps
 
 For this project, I am going to use Python (Jupyter Notebook) and its packages (Pandas and Matplotlib) for exploratory analysis and visualization. I will use the six steps data analytics process that we learned in the course, which are:
