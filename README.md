@@ -61,30 +61,31 @@ Here are the notable discoveries I found during my analysis:
 
 **Amount of Casual Riders vs Annual Members**
 
-<img width="568" alt="casual annual" src="https://github.com/carolinenata/portfolio/assets/138493962/dffaeb7f-38d9-4296-9ae2-35ca7c2117da">
+<img width="577" alt="members and casual amoutn" src="https://github.com/carolinenata/python_rentalbike/assets/138493962/95d843ce-ebae-41f5-82f9-f59ef45cfd72">
 
 There are 1,7 million Casual Riders and 2,7 million Annual members in this dataset. To maximize our profits, we have to convert Casual Riders to Annual members.
 
 **Rideable Type for Casual Riders and Annual Members**
 
-<img width="571" alt="bikes" src="https://github.com/carolinenata/portfolio/assets/138493962/585cf4f9-676c-4ae5-94fe-a855875679c7">
+<img width="576" alt="rideable type" src="https://github.com/carolinenata/python_rentalbike/assets/138493962/2a95f99b-0c1e-42b4-af32-273aa5179359">
+
 Even though classic and electric bikes are popular among both users, it turns out that only casual riders use docked bike. This is very eye opening because there is a chance we can utilize the docked bike to convert existing casual users to members. However, we also need to realize that existing members don't use the docked bike at all. 
 
 **Most popular day for Casual Riders and Annual Members**
 
-<img width="501" alt="most popular day" src="https://github.com/carolinenata/portfolio/assets/138493962/354a6cba-13c4-48a6-882d-72dbb372fdb7">
+<img width="502" alt="popular day for member and casual" src="https://github.com/carolinenata/python_rentalbike/assets/138493962/03df7a92-6751-4f57-9941-5193b75ecd44">
 
 From this graph, we can see that Wednesday is the most popular day for members while Saturday is the most popular day for casual riders. We know that most members rent the bike during weekdays, while most casual riders rent the bikes more on weekends. 
 
 **Boxplot Duration for Casual Riders and Annual Members (Excluding the Outlier)**
 
-<img width="440" alt="duration 2" src="https://github.com/carolinenata/portfolio/assets/138493962/40c66f30-6bb1-4c1b-a876-323eff7bba8c">
+<img width="438" alt="duration boxplot no outlier" src="https://github.com/carolinenata/python_rentalbike/assets/138493962/774e2f15-3d78-4289-9f84-8202f1b1b1df">
 
 This boxplot only includes the MIN, FIRST QUARTILE, MEDIAN AND THIRD QUARTILE. We learn that casual riders have higher median, first and third quartile than members. We can conclude that casual riders  use the bike more longer than the members. 
 
 **Boxplor Duration for Casual Riders and Annual Members (Including the Outlier)**
 
-<img width="507" alt="duration" src="https://github.com/carolinenata/portfolio/assets/138493962/154eb088-b22a-4d99-8aaa-fbcd91a99a19">
+<img width="509" alt="duration boxplot with outlier" src="https://github.com/carolinenata/python_rentalbike/assets/138493962/55751603-9d6e-4a83-ac2c-ed6c95dc08f4">
 
 This boxplot includes the MAX duration of members and casual. As you can see, the max duration for casual is much higher in casual than members. (1498 minutes aka 1 day and 58 minutes for members & 32,035 minutes aka 22 days,5 hours and 55 minutes for casual). 
 
